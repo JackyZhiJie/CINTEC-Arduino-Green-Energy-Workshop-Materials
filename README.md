@@ -3,7 +3,7 @@
 ## 💡CINTEC Arduino Green Energy Workshop Materials
 This STEM workshop was designed and conducted by me at CUHK's Centre for Innovation and Technology (CINTEC). The educational repository contains comprehensive workshop materials focusing on **piezoelectric energy harvesting** and **ultrasonic sensing** using Arduino. This workshop aims to introduce secondary school students to sustainable energy concepts through hands-on experimentation.
 
-<img width="960" height="540" alt="Part 2 Smart Flooring for Energy Harvesting" src="https://github.com/user-attachments/assets/f69e1c81-6bc6-4ebe-a965-a3126ef66776" />
+![Part 2 Smart Flooring for Energy Harvesting](https://github.com/user-attachments/assets/aa24b371-3dec-4260-b492-7fdd5fb8eb34)
 
 ## 🌟 Workshop Highlights
 * Introduction to green energy concepts and Hong Kong's electricity generation landscape
