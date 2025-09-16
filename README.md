@@ -12,15 +12,26 @@ This STEM workshop was designed and conducted by me at CUHK's Centre for Innovat
 * Integration of ultrasonic sensors (HC-SR04) and piezoelectric sensors
 
 ## 🛠️ Technical Requirements
-* Arduino IDE
-* USB-C Driver
-* Basic understanding of C/C++ (not mandatory)
+* Arduino IDE (Using V2.3.6)
+* USB-C Driver (CH341SER.Exe)
+* Basic understanding of C/C++ (Not mandatory)
 * Components list provided in documentation
 
+## 🔧 Core Components:
+- Arduino Nano
+- Piezoelectric sensor
+- Ultrasonic sensor (HC-SR04)
+- LEDs with resistors
+- Breadboard
+- Jumper wires
+- USB cable for Arduino
+
 ## 📚 Repository Contents
+Bilingual (English and Traditional Chinese) resources including:
 * Detailed workshop slides
 * Arduino source code with comprehensive comments
 * Circuit diagrams and wiring instructions
+* Alternative green energy source knowledge
 
 ## 🎯 Learning Outcomes
 Students will gain practical experience in:
